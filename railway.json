@@ -1,9 +1,5 @@
 {
   "build": {
-    "builder": "python",
-    "pythonVersion": "3.11"
-  },
-  "deploy": {
-    "startCommand": "python bot.py"
+    "builder": "NIXPACKS"
   }
 }
